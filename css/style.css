@@ -30,12 +30,12 @@ ul li a {
 }
 ul li a h3 {
   margin: 0 0 15px;
-  font-size: 12px;
+  font-size: 26px;
   font-weight: 900;
 }
 ul li a p {
   margin: 0;
-  font-size: 26px;
+  font-size: 12px;
   max-width: calc(100% - 110px);
 }
 ul li a i {
