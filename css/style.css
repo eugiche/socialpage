@@ -6,7 +6,7 @@ body {
 }
 
 ul {
-  width: 60vw;
+  width: 80vw;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -30,12 +30,12 @@ ul li a {
 }
 ul li a h3 {
   margin: 0 0 15px;
-  font-size: 30px;
+  font-size: 12px;
   font-weight: 900;
 }
 ul li a p {
   margin: 0;
-  font-size: 30px;
+  font-size: 26px;
   max-width: calc(100% - 110px);
 }
 ul li a i {
